@@ -13,3 +13,5 @@ CPU-only AI stack that includes:
 
 The generator script builds a full versioned stack directory such as:
 
+So far this only creates the continers, much config work still to be done.
+
